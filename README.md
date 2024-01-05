@@ -1,2 +1,4 @@
-# Analyse-ecommerce-sales-data---Power-BI
-Analyse ecommerce sales data created interactive dashboard using Power BI
+# Madhav_Store_Analysis_PowerBI
+Complete Power BI project using restail sales data 
+
+like this video :)
